@@ -8,3 +8,10 @@ Trying to understand syntac and stuff
 int main(){
   printf("hello world");
 }
+
+// Using addresses
+int age;
+scanf("%d", &age);
+
+printf(age);
+
