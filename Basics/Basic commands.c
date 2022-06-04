@@ -10,8 +10,9 @@ int main(){
 }
 
 // Using addresses
-int age;
-scanf("%d", &age);
+int age; // create a variable, it will contain an address location
+scanf("%d", &age); //Use & to access the address location
 
 printf(age);
+printf(%age);
 
